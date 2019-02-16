@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Python
+2. R
+3. Js
+4. SQL
+i. DB
+ii. NoSQL
